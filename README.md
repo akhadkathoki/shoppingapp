@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-    <h1>Main Title: Screenshots of the UI</h1>
+    <h1>Screenshots of the UI</h1>
     <table>
         <tr>
             <td>
